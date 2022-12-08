@@ -1,0 +1,5 @@
+Current Error when Running bot
+/n
+error: {
+        message: "This model's maximum context length is 4097 tokens, however you requested 5009 tokens (9 in your prompt; 5000 for the completion). Please reduce your prompt; or completion length.",
+        type: 'invalid_request_error',
